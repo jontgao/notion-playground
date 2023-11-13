@@ -1,8 +1,8 @@
 """Notion Take-Home Assessment.
 
 Given a CSV file of book ratings of the form "book name, member name, rating",
-generate a Notion database. Note that there are a variety of specifics detailed
-in the assignment (e.g. what to do with duplicates, spacing, etc.)
+generate a new Notion database. Note that there are a variety of specifics
+detailed in the assignment (e.g. what to do with duplicates, spacing, etc.)
 
 See all details here:
 https://www.notion.so/Intern-Take-Home-Exercise-ca75357f136d4557be6505632ed9bde0
